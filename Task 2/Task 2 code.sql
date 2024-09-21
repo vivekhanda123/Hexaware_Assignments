@@ -62,6 +62,23 @@ INSERT INTO Products (ProductName, Description, Price)
 VALUES ('New Car', 'This car is a electric car', 1900000);
 SELECT * FROM Products;
 
+--Answer 11
+ALTER TABLE Orders ADD Status VARCHAR(50);  
+UPDATE Orders SET Status = 'Shipped'
+WHERE OrderID = 1;
+SELECT * FROM Orders;
+
+--Answer 12
+ALTER TABLE Customers ADD NumberOfOrders INT;
+UPDATE Customers SET NumberOfOrders = (
+    SELECT COUNT(*)
+    FROM Orders
+    WHERE Orders.CustomerID = Customers.CustomerID
+);
+SELECT *FROM Customers;
+
+
+
 
 
 
