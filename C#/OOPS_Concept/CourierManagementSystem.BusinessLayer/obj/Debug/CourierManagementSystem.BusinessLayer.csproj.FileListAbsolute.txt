@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.BusinessLayer.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.Entity.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\obj\Debug\CourierM.EF0F93B8.Up2Date
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.DatabaseLayer.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.DatabaseLayer.pdb

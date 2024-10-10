@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.DatabaseLayer.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.DatabaseLayer.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.Entity.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierM.1CE46718.Up2Date

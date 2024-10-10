@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D75E0D0F-F9DB-4739-9179-D2C340F5E843}|..\\CourierManagementSystem.UI\\CourierManagementSystem.UI.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\customexceptions\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EB086B-C71D-436B-B18D-0633DD551DD4}|..\\CourierManagementSystem.DatabaseLayer\\CourierManagementSystem.DatabaseLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.databaselayer\\courierservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EB086B-C71D-436B-B18D-0633DD551DD4}|..\\CourierManagementSystem.DatabaseLayer\\CourierManagementSystem.DatabaseLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.databaselayer\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\couriercompanycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|solutionrelative:couriercompanycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\service\\courieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\customexceptions\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\service\\courieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\service\\icourieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\service\\icourieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|solutionrelative:courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\courierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\couriercompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\icourierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\couriercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|solutionrelative:couriercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\icouriercompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\repository\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEEC755-DCA8-4FA7-8C37-8CE8757F47FD}|CourierManagementSystem.Entity.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA567971-F4FD-4728-8158-FCFE98536A1F}|..\\CourierManagementSystem.BusinessLayer\\CourierManagementSystem.BusinessLayer.csproj|c:\\users\\admin\\desktop\\assignment\\hexaware_assignments\\c#\\oops_concept\\couriermanagementsystem.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.UI\\Program.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.UI\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwF0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:35:09.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrackingNumberNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\TrackingNumberNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\TrackingNumberNotFoundException.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:29:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.DatabaseLayer\\DBUtil.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.DatabaseLayer\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.DatabaseLayer\\DBUtil.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.DatabaseLayer\\DBUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:40:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:34:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:49:06.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:49:33.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourierCompanyCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\CourierCompanyCollection.cs",
+              "RelativeDocumentMoniker": "CourierCompanyCollection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\CourierCompanyCollection.cs",
+              "RelativeToolTip": "CourierCompanyCollection.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:54:26.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:42:55.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourierServiceDb.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.DatabaseLayer\\CourierServiceDb.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.DatabaseLayer\\CourierServiceDb.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.DatabaseLayer\\CourierServiceDb.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.DatabaseLayer\\CourierServiceDb.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:56:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourierUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\CourierUserService.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Service\\CourierUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\CourierUserService.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Service\\CourierUserService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:01:48.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidEmployeeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\InvalidEmployeeIdException.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\InvalidEmployeeIdException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\InvalidEmployeeIdException.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\CustomExceptions\\InvalidEmployeeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:30:03.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICourierUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\ICourierUserService.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Service\\ICourierUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\ICourierUserService.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Service\\ICourierUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:05:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourierAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\CourierAdminService.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Service\\CourierAdminService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\CourierAdminService.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Service\\CourierAdminService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:02:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICourierAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\ICourierAdminService.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Service\\ICourierAdminService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\ICourierAdminService.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Service\\ICourierAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:04:41.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\Courier.cs",
+              "RelativeDocumentMoniker": "Courier.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\Courier.cs",
+              "RelativeToolTip": "Courier.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:03:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\CourierRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\CourierRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\CourierRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\CourierRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:32:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourierCompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\CourierCompanyRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\CourierCompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\CourierCompanyRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\CourierCompanyRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:52:39.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICourierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:32:28.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:18:56.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourierCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\CourierCompany.cs",
+              "RelativeDocumentMoniker": "CourierCompany.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\CourierCompany.cs",
+              "RelativeToolTip": "CourierCompany.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:10:52.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICourierCompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierCompanyRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierCompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierCompanyRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\ICourierCompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:53:12.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\LocationRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\LocationRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:57:25.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:03:12.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:47:03.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:47:22.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:04:06.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Repository\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Repository\\ILocationRepository.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Repository\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:01:40.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\Location.cs",
+              "RelativeDocumentMoniker": "Location.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.Entity\\Location.cs",
+              "RelativeToolTip": "Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:07:06.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:19:19.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\CourierManagementSystem.BusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assignment\\Hexaware_Assignments\\C#\\OOPS_Concept\\CourierManagementSystem.BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\CourierManagementSystem.BusinessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:34:36.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

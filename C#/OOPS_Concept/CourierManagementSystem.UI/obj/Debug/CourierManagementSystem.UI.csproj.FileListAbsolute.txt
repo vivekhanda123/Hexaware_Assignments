@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.exe.config
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.exe
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.BusinessLayer.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.Entity.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\obj\Debug\CourierM.76B64441.Up2Date
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.exe
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.pdb
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.DatabaseLayer.dll
+C:\Users\Admin\Desktop\Assignment\Hexaware_Assignments\C#\OOPS_Concept\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.DatabaseLayer.pdb
