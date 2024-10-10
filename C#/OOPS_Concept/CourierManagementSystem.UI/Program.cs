@@ -130,9 +130,9 @@ namespace CourierManagementSystem.UI
             CourierCompanyCollection companyCollection = new CourierCompanyCollection();
 
             // Adding companies
-            companyCollection.AddCourierCompany(new CourierCompany { CompanyName = "Company 1" });
-            companyCollection.AddCourierCompany(new CourierCompany { CompanyName = "Company 2" });
-            companyCollection.AddCourierCompany(new CourierCompany { CompanyName = "Company 3" });
+            companyCollection.AddCourierCompany(new CourierCompany { CompanyName = "Hexaware" });
+            companyCollection.AddCourierCompany(new CourierCompany { CompanyName = "Apple" });
+            companyCollection.AddCourierCompany(new CourierCompany { CompanyName = "Google" });
 
             // list of all courier companies
             List<CourierCompany> companies = companyCollection.GetAllCourierCompanies();
@@ -143,7 +143,6 @@ namespace CourierManagementSystem.UI
             {
                 Console.WriteLine(company.CompanyName);
             }
-
 
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
