@@ -41,7 +41,7 @@ namespace AssignmentWork
                         CheckOrderStatus();
                         break;
                     case 2:
-                        //CategorizeParcel();
+                        CategorizeParcel();
                         break;
                     case 3:
                         UserAuthentication();
@@ -102,40 +102,46 @@ namespace AssignmentWork
             if (status == "Delivered")
             {
                 Console.WriteLine("The order has been delivered.");
-            } else if (status == "Processing")
+            }
+            else if (status == "Processing")
             {
                 Console.WriteLine("The order is in processing stage.");
-            } else if (status == "Cancelled")
+            }
+            else if (status == "Cancelled")
             {
                 Console.WriteLine("The order has been cancelled");
-            } else
+            }
+            else
             {
                 Console.WriteLine("Invalid status");
             }
         }
 
         // Task 1 Question 2
-        //static void CategorizeParcel()
-        //{
-        //    Console.WriteLine("\n Enter the parcel weight in kg:");
-        //    double weight = Convert.ToDouble(Console.ReadLine());
+        static void CategorizeParcel()
+        {
+            Console.WriteLine("\nEnter the parcel weight in kg:");
+            double weight = Convert.ToDouble(Console.ReadLine());
 
-        //    switch (weight)
-        //    {
-        //        case < 3:
-        //            Console.WriteLine("The parcel is of 'Light' category");
-        //            break;
-        //        case >= 3 and <= 7:
-        //            Console.WriteLine("The parcel is of 'Medium' category");
-        //            break;
-        //        case > 7:
-        //            Console.WriteLine("The parcel is of 'Large' category");
-        //            break;
-        //        default:
-        //            Console.WriteLine("Invalid Weight");
-        //            break;
-        //    }
-        //}
+            switch (weight)
+            {
+                case double w when (w < 3):
+                    Console.WriteLine("The parcel is of 'Light' category");
+                    break;
+
+                case double w when (w >= 3 && w <= 7):
+                    Console.WriteLine("The parcel is of 'Medium' category");
+                    break;
+
+                case double w when (w > 7):
+                    Console.WriteLine("The parcel is of 'Large' category");
+                    break;
+
+                default:
+                    Console.WriteLine("Invalid Weight");
+                    break;
+            }
+        }
 
         // Task 1 Question 3
         static void UserAuthentication()
@@ -152,10 +158,12 @@ namespace AssignmentWork
             if (role == "developer" && userName == "developer123" && password == "pass123")
             {
                 Console.WriteLine("Developer logged in successfully.");
-            } else if (role == "customer" && userName == "customer123" && password == "pass123")
+            }
+            else if (role == "customer" && userName == "customer123" && password == "pass123")
             {
                 Console.WriteLine("Customer logged in successfully");
-            } else if (role == "tester" && userName == "tester123" && password == "pass123")
+            }
+            else if (role == "tester" && userName == "tester123" && password == "pass123")
             {
                 Console.WriteLine("Tester logged in successfully");
             }
@@ -198,7 +206,7 @@ namespace AssignmentWork
         }
 
         //Task 2: Loops and Iteration
-        // Task 2 Question 1 Display Customer Orders (For Loop)
+        // Task 2 Question 5 Display Customer Orders (For Loop)
         static void DisplayCustomerOrders()
         {
             string[] orders = { "Order1: Book", "Order2: Laptop", "Order3: Phone" };
@@ -209,7 +217,7 @@ namespace AssignmentWork
             }
         }
 
-        // Task 2 Question 2 Track Courier Location (While Loop)
+        // Task 2 Question 6 Track Courier Location (While Loop)
         static void TrackCourierLocation()
         {
             string[] locations = { "Warehouse", "In Transit", "Out for Delivery", "Delivered" };
@@ -223,26 +231,26 @@ namespace AssignmentWork
         }
 
         //Task 3: Arrays and Data Structures
-        // Task 3 Question 1 Store Tracking History in Array
+        // Task 3 Question 7 Store Tracking History in Array
         static void StoreTrackingHistory()
         {
             string[] trackingHistory = { "Location1: Dispatched", "Location2: In Transit", "Location3: Out for Delivery", "Location4: Delivered" };
             Console.WriteLine("\nTracking History:");
-            foreach( var location in trackingHistory)
+            foreach (var location in trackingHistory)
             {
                 Console.WriteLine(location);
             }
         }
 
-        // Task 3 Question 2 Find Nearest Courier
+        // Task 3 Question 8 Find Nearest Courier
         static void FindNearestCourier()
         {
             string[] couriers = { "Courier1", "Courier2", "Courier3" };
             int[] distances = { 10, 5, 20 };
             int minIndex = 0;
-            for (int i = 0;i < distances.Length; i++)
+            for (int i = 0; i < distances.Length; i++)
             {
-                if(distances[i] < distances[minIndex])
+                if (distances[i] < distances[minIndex])
                 {
                     minIndex = i;
                 }
@@ -398,8 +406,6 @@ namespace AssignmentWork
             {
                 Console.WriteLine("No similar address found");
             }
-
         }
-
     }
 }
