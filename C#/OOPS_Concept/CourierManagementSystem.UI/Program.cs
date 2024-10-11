@@ -19,7 +19,6 @@ namespace CourierManagementSystem.UI
             EmployeeRepository er = new EmployeeRepository(101, "Vivek Handa", "vivek@email.com", "2323223232", "admin", 22000);
             EmployeeService es = new EmployeeService(er);
 
-
             es.DisplayEmployeeInfo();
             es.ToString();
 
@@ -29,7 +28,7 @@ namespace CourierManagementSystem.UI
             ICourierAdminService courierAdminService = new CourierAdminService();
 
             // Admin adds a new courier staff member
-            Employee newEmployee = new Employee { employeeName = "John Doe", email = "john.doe@example.com", contactNumber = "1234567890", role = "Courier", salary = 5000 };
+            Employee newEmployee = new Employee { employeeName = "Tanmay Chocksey", email = "tanmay@example.com", contactNumber = "1234567890", role = "Courier", salary = 5000 };
             int employeeId = courierAdminService.AddCourierStaff(newEmployee);
             Console.WriteLine($"Added new courier staff with ID: {employeeId}");
 
@@ -38,10 +37,10 @@ namespace CourierManagementSystem.UI
             Courier courier = new Courier
             {
                 courierID = 101,
-                senderName = "Alice",
-                senderAddress = "123 Main St",
-                receiverName = "Bob",
-                receiverAddress = "456 Park Ave",
+                senderName = "Umang",
+                senderAddress = "123, Dhaniya Street",
+                receiverName = "Dwij",
+                receiverAddress = "456, Gobi Avenue",
                 weight = 10.5,
                 status = "Delivered",
                 TrackingNumber = "abc101",
